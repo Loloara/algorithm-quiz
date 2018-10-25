@@ -8,6 +8,9 @@
 - [1476]    : 날짜 계산[(문제)](https://www.acmicpc.net/problem/1476)
 - [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
 - [9095]    : 1,2,3 더하기[(문제)](https://www.acmicpc.net/problem/9095)
+- [10972]   : 다음 순열[(문제)](https://www.acmicpc.net/problem/10972)
+- [10973]   : 이전 순열[(문제)](https://www.acmicpc.net/problem/10973)
+- [10974]   : 모든 순열[(문제)](https://www.acmicpc.net/problem/10974)
 
 [code.plus base]
 ----------------
@@ -21,6 +24,10 @@
 [1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1476.cpp
 [14500]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14500.cpp
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/9095.cpp
+[10972]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10972.cpp
+[10973]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10973.cpp
+[10974]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10974.cpp
+
 
 [code.plus base]: https://code.plus
 [GCD_Euclid]: https://github.com/Loloara/algorithm-quiz/blob/master/base/GCD_Euclid.cpp
