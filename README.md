@@ -12,6 +12,7 @@
 - [10973]   : 이전 순열[(문제)](https://www.acmicpc.net/problem/10973)
 - [10974]   : 모든 순열[(문제)](https://www.acmicpc.net/problem/10974)
 - [10819]   : 차이를 최대로[(문제)](https://www.acmicpc.net/problem/10819)
+- [6603]    : 로또[(문제)](https://www.acmicpc.net/problem/6603)
 
 [code.plus base]
 ----------------
@@ -29,6 +30,7 @@
 [10973]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10973.cpp
 [10974]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10974.cpp
 [10819]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10819.cpp
+[6603]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/6603.cpp
 
 
 [code.plus base]: https://code.plus
