@@ -18,6 +18,7 @@
 - [1759]    : 암호 만들기[(문제)](https://www.acmicpc.net/problem/1759)
 - [1182]    : 부분집합의 합[(문제)](https://www.acmicpc.net/problem/1182)
 - [14501]   : 퇴사[(문제)](https://www.acmicpc.net/problem/14501)
+- [15658]   : 연산자 끼워넣기(2)[(문제)](https://www.acmicpc.net/problem/15658)
 
 [code.plus base]
 ----------------
@@ -41,6 +42,7 @@
 [1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1759.cpp
 [1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1182.cpp
 [14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14501.cpp
+[15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/15658.cpp
 
 
 [code.plus base]: https://code.plus
