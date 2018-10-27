@@ -16,6 +16,7 @@
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
 - [10971]   : 외판원 순회2[(문제)](https://www.acmicpc.net/problem/10971)
 - [1759]    : 암호 만들기[(문제)](https://www.acmicpc.net/problem/1759)
+- [1182]    : 부분집합의 합[(문제)](https://www.acmicpc.net/problem/1182)
 
 [code.plus base]
 ----------------
@@ -37,6 +38,7 @@
 [14888]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14888.cpp
 [10971]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/10971.cpp
 [1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1759.cpp
+[1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1182.cpp
 
 
 [code.plus base]: https://code.plus
