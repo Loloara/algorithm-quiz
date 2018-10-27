@@ -4,8 +4,8 @@
 using namespace std;
 
 int main() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(nullptr);
+	ios_base::sync_with_stdio(false);	//iostream stdio 버퍼 동기화 해제
+	cin.tie(nullptr);					//cout과 cin tie 기능 해제
 
 	bool primeN[1000001] = {};
 	vector<int> primeArr;
