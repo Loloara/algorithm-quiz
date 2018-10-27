@@ -22,8 +22,8 @@ int go(int sum, int goal) {
 	if (sum == goal) return 1;	//정답을 찾은 경우
 	
 	int count = 0;
-	for (int i = 1; i <= 3; i++) {
+	for (int i = 1; i <= 3; i++)
 		count += go(sum + i, goal);	//다음 경우
-	}
+
 	return count;
 }
