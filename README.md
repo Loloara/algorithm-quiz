@@ -37,28 +37,28 @@
 - [Next_Permutation]      : 다음 순열 및 이전 순열 찾기
 
 [백준 온라인 저지]: https://www.acmicpc.net
-[1476]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
-[1929]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1929.cpp
-[1934]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1934.cpp
-[1978]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1978.cpp
-[2609]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/2609.cpp
-[6588]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/6588.cpp
-[9613]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/9613.cpp
-[10430]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/10430.cpp
-[2309]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/loop/2309.cpp
-[14500]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/loop/14500.cpp
-[9095]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
-[10972]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10972.cpp
-[10973]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10973.cpp
-[10974]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10974.cpp
-[10819]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10819.cpp
-[6603]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/6603.cpp
-[14888]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/14888.cpp
-[10971]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10971.cpp
-[1759]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1759.cpp
-[1182]    : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1182.cpp
-[14501]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp 
-[15658]   : https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
+[1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
+[1929]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1929.cpp
+[1934]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1934.cpp
+[1978]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1978.cpp
+[2609]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/2609.cpp
+[6588]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/6588.cpp
+[9613]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/9613.cpp
+[10430]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/10430.cpp
+[2309]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/loop/2309.cpp
+[14500]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/loop/14500.cpp
+[9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
+[10972]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10972.cpp
+[10973]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10973.cpp
+[10974]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10974.cpp
+[10819]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10819.cpp
+[6603]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/6603.cpp
+[14888]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/14888.cpp
+[10971]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10971.cpp
+[1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1759.cpp
+[1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1182.cpp
+[14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp 
+[15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
 
 
 [code.plus base]: https://code.plus
