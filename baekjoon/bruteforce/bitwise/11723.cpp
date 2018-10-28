@@ -16,25 +16,25 @@ int main() {
 		cin >> op;
 		if (op.compare("add") == 0) {
 			cin >> in;
-			arr |= (1<<in);
+			arr |= (1<<(in-1));
 		}
 		else if (op.compare("remove") == 0) {
 			cin >> in;
-			arr &= ~(1<<in);
+			arr &= ~(1<<(in-1));
 		}
 		else if (op.compare("check") == 0) {
 			cin >> in;
-			if ((arr & (1<<in)) == 0)
+			if ((arr & (1<<(in-1))) == 0)
 				cout << 0 << '\n';
 			else
 				cout << 1 << '\n';
 		}
 		else if (op.compare("toggle") == 0) {
 			cin >> in;
-			arr ^= (1<<in);
+			arr ^= (1<<(in-1));
 		}
 		else if (op.compare("all") == 0) {
-			arr |= (1<<21)-1;
+			arr |= (1<<20)-1;
 		}
 		else if (op.compare("empty") == 0) {
 			arr = 0;
