@@ -56,10 +56,10 @@
 [10819]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10819.cpp
 [14888]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/14888.cpp
 [1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1759.cpp
-[1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1182.cpp
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
 [14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp 
 [15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
+[1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/1182.cpp
 [11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
 
 
