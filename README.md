@@ -24,6 +24,7 @@
 - [10972]   : 다음 순열[(문제)](https://www.acmicpc.net/problem/10972)
 - [10973]   : 이전 순열[(문제)](https://www.acmicpc.net/problem/10973)
 - [10974]   : 모든 순열[(문제)](https://www.acmicpc.net/problem/10974)
+- [11723]   : 집합[(문제)](https://www.acmicpc.net/problem/11723)
 - [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
 - [14501]   : 퇴사[(문제)](https://www.acmicpc.net/problem/14501)
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -59,6 +60,7 @@
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
 [14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp 
 [15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
+[11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
 
 
 [code.plus base]: https://code.plus
