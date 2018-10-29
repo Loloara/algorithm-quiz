@@ -24,7 +24,9 @@ void go(int index, int n, int m) {
 	
 	//다음 경우
 	for (int i = 0; i < n; i++) {
-		if (i+1 < arr[index - 1]) continue;
+		if (index != 0) {
+			if (i + 1 < arr[index - 1]) continue;
+		}
 		arr[index] = i + 1;
 		go(index + 1, n, m);
 	}
