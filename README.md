@@ -28,6 +28,7 @@
 - [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
 - [14501]   : 퇴사[(문제)](https://www.acmicpc.net/problem/14501)
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
+- [15649]   : N과 M(1)[(문제)](https://www.acmicpc.net/problem/15649)
 - [15658]   : 연산자 끼워넣기(2)[(문제)](https://www.acmicpc.net/problem/15658)
 
 [code.plus base]
@@ -57,7 +58,8 @@
 [14888]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/14888.cpp
 [1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1759.cpp
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
-[14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp 
+[14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp
+[15649]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15649.cpp 
 [15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
 [1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/1182.cpp
 [11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
