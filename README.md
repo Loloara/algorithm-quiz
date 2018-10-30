@@ -38,6 +38,7 @@
 - [15657]   : N과 M(8)[(문제)](https://www.acmicpc.net/problem/15657)
 - [15658]   : 연산자 끼워넣기(2)[(문제)](https://www.acmicpc.net/problem/15658)
 - [15663]   : N과 M(9)[(문제)](https://www.acmicpc.net/problem/15663)
+- [15664]   : N과 M(10)[(문제)](https://www.acmicpc.net/problem/15664)
 
 [code.plus base]
 ----------------
@@ -77,6 +78,7 @@
 [15657]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15657.cpp
 [15658]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15658.cpp
 [15663]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15663.cpp
+[15664]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15664.cpp
 [1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/1182.cpp
 [11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
 
