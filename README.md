@@ -25,7 +25,6 @@
 - [10973]   : 이전 순열[(문제)](https://www.acmicpc.net/problem/10973)
 - [10974]   : 모든 순열[(문제)](https://www.acmicpc.net/problem/10974)
 - [11723]   : 집합[(문제)](https://www.acmicpc.net/problem/11723)
-- [13023]   : ABCDE[(문제)](https://www.acmicpc.net/problem/13023)
 - [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
 - [14501]   : 퇴사[(문제)](https://www.acmicpc.net/problem/14501)
 - [14888]   : 연산자 끼워넣기[(문제)](https://www.acmicpc.net/problem/14888)
@@ -42,6 +41,9 @@
 - [15664]   : N과 M(10)[(문제)](https://www.acmicpc.net/problem/15664)
 - [15665]   : N과 M(11)[(문제)](https://www.acmicpc.net/problem/15665)
 - [15666]   : N과 M(12)[(문제)](https://www.acmicpc.net/problem/15666)
+
+3. 그래프
+- [13023]   : ABCDE[(문제)](https://www.acmicpc.net/problem/13023)
 
 [code.plus base]
 ----------------
