@@ -43,6 +43,7 @@
 - [15666]   : N과 M(12)[(문제)](https://www.acmicpc.net/problem/15666)
 
 3. 그래프
+- [1260]   : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
 - [13023]   : ABCDE[(문제)](https://www.acmicpc.net/problem/13023)
 
 [code.plus base]
@@ -88,6 +89,7 @@
 [15666]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/15666.cpp
 [1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/1182.cpp
 [11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
+[1260]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/1260.cpp
 [13023]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/13023.cpp
 
 
