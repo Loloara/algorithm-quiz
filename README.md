@@ -44,6 +44,7 @@
 
 3. 그래프
 - [1260]    : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
+- [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [11724]   : 연결 요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
 - [13023]   : ABCDE[(문제)](https://www.acmicpc.net/problem/13023)
 
@@ -91,6 +92,7 @@
 [1182]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/1182.cpp
 [11723]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/bitwise/11723.cpp
 [1260]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/1260.cpp
+[1707]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/1707.cpp
 [11724]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/11724.cpp
 [13023]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/13023.cpp
 
