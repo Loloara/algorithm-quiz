@@ -3,9 +3,11 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
+
 bool a[2000][2000];
 vector<int> g[2000];
 vector<pair<int, int>> edges;
+
 int main() {
 	int n, m;
 	cin >> n >> m;
