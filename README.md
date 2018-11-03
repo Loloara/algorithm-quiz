@@ -46,6 +46,7 @@
 - [1260]    : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [2667]    : 단지번호붙이기[(문제)](https://www.acmicpc.net/problem/2667)
+- [4963]    : 섬의 개수[(문제)](https://www.acmicpc.net/problem/4963)
 - [11724]   : 연결 요소의 개수[(문제)](https://www.acmicpc.net/problem/11724)
 - [13023]   : ABCDE[(문제)](https://www.acmicpc.net/problem/13023)
 
@@ -95,6 +96,7 @@
 [1260]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/1260.cpp
 [13023]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/13023.cpp
 [1707]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/1707.cpp
+[4963]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/4963.cpp
 [2667]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2667.cpp
 [11724]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/11724.cpp
 
