@@ -18,24 +18,30 @@ int main() {
 		Q.pop();
 		
 		int next = now + 1;
-		if (!chk[next] && next >= 0 && next <= 100000) {
-			Q.push(next);
-			chk[next] = true;
-			dist[next] = dist[now] + 1;
+		if (next >= 0 && next <= 100000) {
+			if (!chk[next]) {
+				Q.push(next);
+				chk[next] = true;
+				dist[next] = dist[now] + 1;
+			}
 		}
 
 		next = now - 1;
-		if (!chk[next] && next >= 0 && next <= 100000) {
-			Q.push(next);
-			chk[next] = true;
-			dist[next] = dist[now] + 1;
+		if (next >= 0 && next <= 100000) {
+			if (!chk[next]) {
+				Q.push(next);
+				chk[next] = true;
+				dist[next] = dist[now] + 1;
+			}
 		}
 
 		next = now * 2;
-		if (!chk[next] && next >= 0 && next <= 100000) {
-			Q.push(next);
-			chk[next] = true;
-			dist[next] = dist[now] + 1;
+		if (next >= 0 && next <= 100000) {
+			if (!chk[next]) {
+				Q.push(next);
+				chk[next] = true;
+				dist[next] = dist[now] + 1;
+			}
 		}
 	}
 
