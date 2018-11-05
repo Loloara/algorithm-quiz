@@ -44,6 +44,7 @@
 
 3. 그래프
 - [1260]    : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
+- [1261]    : 알고스팟[(문제)](https://www.acmicpc.net/problem/1261)
 - [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1707)1697
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [2178]    : 미로 탐색[(문제)](https://www.acmicpc.net/problem/2178)
@@ -102,6 +103,7 @@
 [13023]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/13023.cpp
 [1707]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/1707.cpp
 [4963]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/4963.cpp
+[1261]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/1261.cpp
 [1697]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/1697.cpp
 [2178]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2178.cpp
 [2667]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2667.cpp
