@@ -48,6 +48,7 @@
 - [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1707)1697
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [2178]    : 미로 탐색[(문제)](https://www.acmicpc.net/problem/2178)
+- [2206]    : 벽 부수고 이동하기[(문제)](https://www.acmicpc.net/problem/2206)
 - [2667]    : 단지번호붙이기[(문제)](https://www.acmicpc.net/problem/2667)
 - [4963]    : 섬의 개수[(문제)](https://www.acmicpc.net/problem/4963)
 - [7576]    : 토마토[(문제)](https://www.acmicpc.net/problem/7576)
@@ -106,6 +107,7 @@
 [1261]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/1261.cpp
 [1697]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/1697.cpp
 [2178]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2178.cpp
+[2206]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2206.cpp
 [2667]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/2667.cpp
 [7576]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/7576.cpp
 [11724]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/11724.cpp
