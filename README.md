@@ -58,6 +58,9 @@
 - [13549]   : 숨바꼭질3[(문제)](https://www.acmicpc.net/problem/13549)
 - [14226]   : 이모티콘[(문제)](https://www.acmicpc.net/problem/14226)
 
+3. 다이나믹 프로그래밍
+- [1463]    : 1로 만들기[(문제)](https://www.acmicpc.net/problem/1463)
+
 [code.plus base]
 ----------------
 - [GCD_Euclid]            : 최대공략수 유클리드 호제법로 구하기
@@ -115,6 +118,7 @@
 [11724]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/11724.cpp
 [13549]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/13549.cpp
 [14226]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/14226.cpp
+[1463]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1463.cpp
 
 
 [code.plus base]: https://code.plus
