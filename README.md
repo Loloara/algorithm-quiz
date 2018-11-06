@@ -60,6 +60,7 @@
 
 3. 다이나믹 프로그래밍
 - [1463]    : 1로 만들기[(문제)](https://www.acmicpc.net/problem/1463)
+- [11726]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11726)
 
 [code.plus base]
 ----------------
@@ -119,6 +120,7 @@
 [13549]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/13549.cpp
 [14226]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/14226.cpp
 [1463]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1463.cpp
+[11726]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11726.cpp
 
 
 [code.plus base]: https://code.plus
