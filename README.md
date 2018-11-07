@@ -64,6 +64,7 @@
 - [11726]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11726)
 - [11727]   : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
 - [15988]   : 1,2,3 더하기3[(문제)](https://www.acmicpc.net/problem/15988)
+- [16194]   : 카드 구매하기2[(문제)](https://www.acmicpc.net/problem/16194)
 
 [code.plus base]
 ----------------
@@ -127,6 +128,7 @@
 [11726]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11726.cpp
 [11727]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11727.cpp
 [15988]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/15988.cpp
+[16194]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/16194.cpp
 
 
 [code.plus base]: https://code.plus
