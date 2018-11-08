@@ -60,6 +60,7 @@
 
 3. 다이나믹 프로그래밍
 - [1463]    : 1로 만들기[(문제)](https://www.acmicpc.net/problem/1463)
+- [2193]    : 이친수[(문제)](https://www.acmicpc.net/problem/2193)
 - [10844]   : 쉬운 계단 수[(문제)](https://www.acmicpc.net/problem/10844)
 - [11052]   : 카드 구매하기[(문제)](https://www.acmicpc.net/problem/11052)
 - [11057]   : 오르막 수[(문제)](https://www.acmicpc.net/problem/11057)
@@ -127,6 +128,7 @@
 [13549]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/13549.cpp
 [14226]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/14226.cpp
 [1463]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1463.cpp
+[2193]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2193.cpp
 [10844]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/10844.cpp
 [11052]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11052.cpp
 [11057]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11057.cpp
