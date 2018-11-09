@@ -68,6 +68,7 @@
 - [11053]   : 가장 긴 증가하는 부분 수열[(문제)](https://www.acmicpc.net/problem/11053)
 - [11055]   : 가장 큰 증가 부분 수열[(문제)](https://www.acmicpc.net/problem/11055)
 - [11057]   : 오르막 수[(문제)](https://www.acmicpc.net/problem/11057)
+- [11722]   : 가장 긴 감소하는 부분 수열[(문제)](https://www.acmicpc.net/problem/11722)
 - [11726]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11726)
 - [11727]   : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
 - [14002]   : 가장 긴 증가하는 부분 수열4[(문제)](https://www.acmicpc.net/problem/14002)
@@ -141,6 +142,7 @@
 [11053]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11053.cpp
 [11055]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11055.cpp
 [11057]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11057.cpp
+[11722]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11722.cpp
 [11726]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11726.cpp
 [11727]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11727.cpp
 [14002]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/14002.cpp
