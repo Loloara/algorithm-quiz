@@ -60,7 +60,7 @@
 
 3. 다이나믹 프로그래밍
 - [1463]    : 1로 만들기[(문제)](https://www.acmicpc.net/problem/1463)
-- [1912]    : 포도주 시식[(문제)](https://www.acmicpc.net/problem/1912)
+- [1912]    : 연속합[(문제)](https://www.acmicpc.net/problem/1912)
 - [2156]    : 포도주 시식[(문제)](https://www.acmicpc.net/problem/2156)
 - [2193]    : 이친수[(문제)](https://www.acmicpc.net/problem/2193)
 - [9465]    : 스티커[(문제)](https://www.acmicpc.net/problem/9465)
@@ -73,6 +73,7 @@
 - [11722]   : 가장 긴 감소하는 부분 수열[(문제)](https://www.acmicpc.net/problem/11722)
 - [11726]   : 2xn 타일링[(문제)](https://www.acmicpc.net/problem/11726)
 - [11727]   : 2xn 타일링2[(문제)](https://www.acmicpc.net/problem/11727)
+- [13398]   : 연속합2[(문제)](https://www.acmicpc.net/problem/13398)
 - [14002]   : 가장 긴 증가하는 부분 수열4[(문제)](https://www.acmicpc.net/problem/14002)
 - [15988]   : 1,2,3 더하기3[(문제)](https://www.acmicpc.net/problem/15988)
 - [15990]   : 1,2,3 더하기5[(문제)](https://www.acmicpc.net/problem/15990)
@@ -149,6 +150,7 @@
 [11722]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11722.cpp
 [11726]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11726.cpp
 [11727]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11727.cpp
+[13398]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/13398.cpp
 [14002]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/14002.cpp
 [15988]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/15988.cpp
 [15990]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/15990.cpp
