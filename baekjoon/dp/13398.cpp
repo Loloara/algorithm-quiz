@@ -1,51 +1,36 @@
 //13398 연속합2 https://www.acmicpc.net/problem/13398
+//for문으로 DP 구현
 #include <iostream>
 #include <algorithm>
 using namespace std;
 
-int N;
-int A[100001];
-int mem[100001] = { 0 };
-int ans[100001] = { 0 };
-int dpL(int index);
-int dpR(int index);
-
 int main() {
-	cin >> N;
-	for (int i = 1; i <= N; i++)
-		cin >> A[i];
-	mem[1] = A[1];
-	mem[N] = A[N];
+	int N;
+	int A[100001];
+	int memL[100001];
+	int memR[100001];
 
-	for (int i = 0; i <= N; i++) {
-		int maxM = dpL(i - 1) + dpR(i + 1);
-		int maxL = -100000001; 
-		int maxR = -100000001;
-		if (i > 1)
-			maxL = *max_element(mem + 1, mem + i - 1);
-		if (i < N)
-			maxR = *max_element(mem + i + 1, mem + N);
-		ans[i] = max(max(maxL, maxR), maxM);	
-		mem[i] = 0;
+	cin >> N;
+	for (int i = 1; i <= N; i++) {
+		cin >> A[i];
 	}
 
-	cout << *max_element(ans, ans + N);
+	for (int i = 1; i <= N; i++) {
+		int j = N - i + 1;
+		memL[i] = A[i];
+		memR[j] = A[j];
+		if (i == 1) continue;
+		if (memL[i] < memL[i - 1] + A[i]) memL[i] = memL[i - 1] + A[i];
+		if (memR[j] < memR[j + 1] + A[j]) memR[j] = memR[j + 1] + A[j];
+	}
+	
+	int ans = memL[1];
+	for (int i = 2; i < N; i++) {
+		ans = max({ ans, memL[i - 1] + memR[i + 1],memL[i] });
+	}
+	if (ans < memL[N]) ans = memL[N];
+
+	cout << ans;
 
 	return 0;
-}
-
-int dpL(int index) {
-	if (index <= 0) return -100000001;
-	if (mem[index]) return mem[index];
-	mem[index] = max(A[index], dpL(index - 1) + A[index]);
-
-	return mem[index];
-}
-
-int dpR(int index) {
-	if (index > N) return -100000001;
-	if (mem[index]) return mem[index];
-	mem[index] = max(A[index], dpR(index + 1) + A[index]);
-
-	return mem[index];
 }
