@@ -66,6 +66,7 @@
 - [10844]   : 쉬운 계단 수[(문제)](https://www.acmicpc.net/problem/10844)
 - [11052]   : 카드 구매하기[(문제)](https://www.acmicpc.net/problem/11052)
 - [11053]   : 가장 긴 증가하는 부분 수열[(문제)](https://www.acmicpc.net/problem/11053)
+- [11054]   : 가장 긴 바이토닉 부분 수열[(문제)](https://www.acmicpc.net/problem/11054)
 - [11055]   : 가장 큰 증가 부분 수열[(문제)](https://www.acmicpc.net/problem/11055)
 - [11057]   : 오르막 수[(문제)](https://www.acmicpc.net/problem/11057)
 - [11722]   : 가장 긴 감소하는 부분 수열[(문제)](https://www.acmicpc.net/problem/11722)
@@ -140,6 +141,7 @@
 [10844]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/10844.cpp
 [11052]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11052.cpp
 [11053]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11053.cpp
+[11054]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11054.cpp
 [11055]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11055.cpp
 [11057]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11057.cpp
 [11722]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11722.cpp
