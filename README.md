@@ -60,6 +60,7 @@
 
 3. 다이나믹 프로그래밍
 - [1463]    : 1로 만들기[(문제)](https://www.acmicpc.net/problem/1463)
+- [1699]    : 제곱수의 합[(문제)](https://www.acmicpc.net/problem/1699)
 - [1912]    : 연속합[(문제)](https://www.acmicpc.net/problem/1912)
 - [2156]    : 포도주 시식[(문제)](https://www.acmicpc.net/problem/2156)
 - [2193]    : 이친수[(문제)](https://www.acmicpc.net/problem/2193)
@@ -137,6 +138,7 @@
 [13549]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/13549.cpp
 [14226]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/14226.cpp
 [1463]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1463.cpp
+[1699]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1699.cpp
 [1912]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1912.cpp
 [2156]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2156.cpp
 [2193]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2193.cpp
