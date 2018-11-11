@@ -64,6 +64,7 @@
 - [1912]    : 연속합[(문제)](https://www.acmicpc.net/problem/1912)
 - [2156]    : 포도주 시식[(문제)](https://www.acmicpc.net/problem/2156)
 - [2193]    : 이친수[(문제)](https://www.acmicpc.net/problem/2193)
+- [2225]    : 합분해[(문제)](https://www.acmicpc.net/problem/2225)
 - [9465]    : 스티커[(문제)](https://www.acmicpc.net/problem/9465)
 - [10844]   : 쉬운 계단 수[(문제)](https://www.acmicpc.net/problem/10844)
 - [11052]   : 카드 구매하기[(문제)](https://www.acmicpc.net/problem/11052)
@@ -142,6 +143,7 @@
 [1912]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1912.cpp
 [2156]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2156.cpp
 [2193]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2193.cpp
+[2225]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2225.cpp
 [9465]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/9465.cpp
 [10844]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/10844.cpp
 [11052]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/11052.cpp
