@@ -1,4 +1,5 @@
 //13023 ABCDE https://www.acmicpc.net/problem/13023
+// O(m^2)
 #include <iostream>
 #include <vector>
 #include <algorithm>
