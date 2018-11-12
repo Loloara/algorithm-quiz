@@ -1,5 +1,6 @@
 //4963 ¼¶ÀÇ °³¼ö https://www.acmicpc.net/problem/4963
 //dfs
+// O(w*h+E)
 #include <iostream>
 #include <vector>
 using namespace std;
