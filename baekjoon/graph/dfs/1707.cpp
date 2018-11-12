@@ -1,4 +1,5 @@
 //1707 이분 그래프 https://www.acmicpc.net/problem/1707
+// O(V+E) -> O(정점+간선) 간선 리스트 순회 문제이다.
 #include <iostream>
 #include <vector>
 using namespace std;
