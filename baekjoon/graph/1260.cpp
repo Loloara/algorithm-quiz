@@ -1,4 +1,5 @@
 //1260 DFS와 BFS https://www.acmicpc.net/problem/1260
+// 인접리스트 순회이기 때문에 O(V+E) -> O(정점+간선)
 #include <iostream>
 #include <queue>
 #include <vector>
