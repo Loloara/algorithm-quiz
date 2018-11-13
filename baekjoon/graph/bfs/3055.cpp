@@ -1,4 +1,5 @@
 //3055 ≈ª√‚ https://www.acmicpc.net/problem/3055
+// O(RC)
 #include <iostream>
 #include <queue>
 #include <cstring>
