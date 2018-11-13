@@ -1,4 +1,5 @@
 //1697 ¼û¹Ù²ÀÁú https://www.acmicpc.net/problem/1697
+// O(N)
 #include <iostream>
 #include <queue>
 using namespace std;
