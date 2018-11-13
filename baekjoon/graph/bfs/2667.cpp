@@ -1,5 +1,6 @@
 //2667 단지번호붙이기 https://www.acmicpc.net/problem/2667
 //BFS
+// O(N^2)
 #include <iostream>
 #include <queue>
 #include <vector>
