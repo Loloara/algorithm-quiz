@@ -1,4 +1,5 @@
 //7576 ≈‰∏∂≈‰ https://www.acmicpc.net/problem/7576
+//O(NM)
 #include <iostream>
 #include <queue>
 using namespace std;
