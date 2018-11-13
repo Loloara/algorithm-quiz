@@ -1,4 +1,5 @@
 //1261 ¾Ë°í½ºÆÌ https://www.acmicpc.net/problem/1261
+// O(N)
 #include <iostream>
 #include <queue>
 #include <cstring>
@@ -33,7 +34,7 @@ int main() {
 		for (int i = 0; i < 4; i++) {
 			int newX = nodeX + dx[i];
 			int newY = nodeY + dy[i];
-			if (newX<0 || newX>=N || newY<0 || newY>=M) continue;
+			if (newX < 0 || newX >= N || newY < 0 || newY >= M) continue;
 			if (chk[newX][newY]) continue;
 			chk[newX][newY] = true;
 			if (nMap[newX][newY] == 1) {
