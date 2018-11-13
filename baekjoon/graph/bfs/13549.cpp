@@ -1,4 +1,5 @@
 //13549 ¼û¹Ù²ÀÁú 3 https://www.acmicpc.net/problem/13549
+//O(N)
 #include <iostream>
 #include <queue>
 using namespace std;
