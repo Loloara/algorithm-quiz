@@ -1,4 +1,5 @@
 //2178 ¹Ì·Î Å½»ö https://www.acmicpc.net/problem/2178
+//O(N)
 #include <iostream>
 #include <vector>
 #include <queue>
