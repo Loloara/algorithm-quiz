@@ -1,4 +1,6 @@
 //1463 1로 만들기 https://www.acmicpc.net/problem/1463
+//D[N] = min(D[N-1], D[N/3], D[N/2]) + 1
+//O(N)
 #include <iostream>
 #include <algorithm>
 using namespace std;
