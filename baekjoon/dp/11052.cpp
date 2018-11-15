@@ -1,4 +1,7 @@
 //11052 카드 구매하기 https://www.acmicpc.net/problem/11052
+//D[N] = max(D[N-i] + P[i])
+// 1 <= i <= N
+//O(N^2)
 #include <iostream>
 using namespace std;
 
