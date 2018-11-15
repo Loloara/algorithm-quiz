@@ -1,4 +1,7 @@
 //1699 제곱수의 합 https://www.acmicpc.net/problem/1699
+//D[N] = min(D[n-i^2]+1
+//1<= i^2 <=N
+//O(N*rootN)
 #include <iostream>
 using namespace std;
 
