@@ -1,4 +1,8 @@
 //15990 1,2,3 ¥ı«œ±‚5 https://www.acmicpc.net/problem/15990
+//D[N][1] = D[N-1][2] + D[N-1][3]
+//D[N][2] = D[N-1][1] + D[N-1][3]
+//D[N][3] = D[N-1][1] + D[N-1][2]
+//O(N)
 #include <iostream>
 #include <cstring>
 using namespace std;
