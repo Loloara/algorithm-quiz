@@ -1,4 +1,7 @@
 //16194 카드 구매하기2 https://www.acmicpc.net/problem/16194
+//D[N] = min(D[N-i] + P[i])
+// 1 <= i <= N
+//O(N^2)
 #include <iostream>
 using namespace std;
 
