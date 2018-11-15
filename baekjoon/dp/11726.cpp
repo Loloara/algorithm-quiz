@@ -1,4 +1,6 @@
 //11726 2xn ≈∏¿œ∏µ https://www.acmicpc.net/problem/11726
+//D[N] = D[N-1] + D[N-2]
+//O(N)
 #include <iostream>
 using namespace std;
 
