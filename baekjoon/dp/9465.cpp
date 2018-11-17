@@ -1,4 +1,8 @@
 //9465 ½ºÆ¼Ä¿ https://www.acmicpc.net/problem/9465
+//D[N, 0] = max(D[N-1, 1], D[N-1, 2])
+//D[N, 1] = max(D[N-1, 0], D[N-1, 2]) + P[N][0]
+//D[N, 2] = max(D[N-1, 0], D[N-1, 1]) + P[N][1]
+//O(N)
 #include <iostream>
 #include <cstring>
 #include <algorithm>
