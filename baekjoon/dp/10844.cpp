@@ -1,4 +1,6 @@
 //10844 쉬운 계단 수 https://www.acmicpc.net/problem/10844
+//D[N, last] = D[N-1, last+1] + D[N-1, last-1]
+//O(N)
 #include <iostream>
 #include <cstring>
 using namespace std;
