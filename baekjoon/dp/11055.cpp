@@ -1,4 +1,7 @@
 //11055 가장 큰 증가 부분 수열 https://www.acmicpc.net/problem/11055
+//D[N] = max(D[i]) + 1
+// 0 <= i < N
+//O(N^2)
 #include <iostream>
 using namespace std;
 
