@@ -1,4 +1,6 @@
 //2193 ÀÌÄ£¼ö https://www.acmicpc.net/problem/2193
+//D[N, last] = D[N-1, 0] + D[N-1, 1]
+//O(N)
 #include <iostream>
 #include <cstring>
 using namespace std;
