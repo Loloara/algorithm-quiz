@@ -1,4 +1,8 @@
 //2156 포도주 시식 https://www.acmicpc.net/problem/2156
+//D[N, 0] = max(D[N-1, 0], D[N-1, 1], D[N-1, 2])
+//D[N, 1] = D[N-1, 0] + P(N)
+//D[N, 2] = D[N-1, 1] + P(N)
+//O(N)
 #include <iostream>
 #include <cstring>
 #include <algorithm>
