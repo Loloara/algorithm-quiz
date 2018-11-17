@@ -1,4 +1,7 @@
 //14002 가장 긴 증가하는 부분 수열4 https://www.acmicpc.net/problem/14002
+//D[N] = max(D[i]) + 1
+// 0 <= i < N
+//O(N^2)
 #include <iostream>
 #include <stack>
 using namespace std;
