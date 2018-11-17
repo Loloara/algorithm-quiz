@@ -1,4 +1,7 @@
 //11057 오르막 수 https://www.acmicpc.net/problem/11057
+//D[N, last] += D[N-1, i]
+// 0 <= i <= last
+//O(N)
 #include <iostream>
 #include <cstring>
 using namespace std;
