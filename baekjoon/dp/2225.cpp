@@ -1,4 +1,7 @@
 //2225 ÇÕºÐÇØ https://www.acmicpc.net/problem/2225
+//D[N][K] += D[N - i][K - 1]
+//0 <= i <= N
+//O(N^2)
 #include <iostream>
 #include <cstring>
 using namespace std;
