@@ -1,4 +1,7 @@
 //11054 가장 긴 바이토닉 부분 수열 https://www.acmicpc.net/problem/11054
+//D[N] = max(D[i]) + 1
+// 0 <= i < N
+//O(N^2)
 #include <iostream>
 using namespace std;
 
