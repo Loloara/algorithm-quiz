@@ -1,4 +1,6 @@
 //13398 ¿¬¼ÓÇÕ2 https://www.acmicpc.net/problem/13398
+// D[N] = max(P(N), D[N-1] + P(N))
+//O(N)
 #include <iostream>
 #include <algorithm>
 using namespace std;
