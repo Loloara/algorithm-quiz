@@ -88,6 +88,13 @@
 - [Prime_Number]          : 소수 확인 및 범위 내 소수 찾기
 - [Next_Permutation]      : 다음 순열 및 이전 순열 찾기
 
+[kakao 2018 blind test]
+----------------
+- [openChat]			: 오픈채팅방
+- [failure]				: 실패율
+- [candidateKey]		: 후보키
+- [FCFS]				: 무지의 먹방 라이브
+
 [백준 온라인 저지]: https://www.acmicpc.net
 [1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
 [1929]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1929.cpp
@@ -166,3 +173,9 @@
 [Moduler_Arithmetic]: https://github.com/Loloara/algorithm-quiz/blob/master/base/Moduler_Arithmetic.cpp
 [Prime_Number]: https://github.com/Loloara/algorithm-quiz/blob/master/base/Prime_Number.cpp
 [Next_Permutation]: https://github.com/Loloara/algorithm-quiz/blob/master/base/Next_Permutation.cpp
+
+[kakao 2018 blind test]: https://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/
+[openChat]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/openChat.cpp
+[failure]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/failure.cpp
+[candidateKey]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/candidateKey.cpp
+[FCFS]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/FCFS.cpp
