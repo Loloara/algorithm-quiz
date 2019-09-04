@@ -94,6 +94,9 @@
 - [failure]				: 실패율
 - [candidateKey]		: 후보키
 - [FCFS]				: 무지의 먹방 라이브
+- [nodeCircuit]			: 길 찾기 게임
+- [matchingScore]		: 매칭 점수
+
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
@@ -179,3 +182,5 @@
 [failure]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/failure.cpp
 [candidateKey]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/candidateKey.cpp
 [FCFS]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/FCFS.cpp
+[nodeCircuit]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/nodeCircuit.cpp
+[matchingScore]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/matchingScore.cpp
