@@ -45,7 +45,7 @@
 3. 그래프
 - [1260]    : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
 - [1261]    : 알고스팟[(문제)](https://www.acmicpc.net/problem/1261)
-- [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1707)1697
+- [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1707)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [2178]    : 미로 탐색[(문제)](https://www.acmicpc.net/problem/2178)
 - [2206]    : 벽 부수고 이동하기[(문제)](https://www.acmicpc.net/problem/2206)
