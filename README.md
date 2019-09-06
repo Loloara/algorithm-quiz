@@ -98,6 +98,11 @@
 - [matchingScore]		: 매칭 점수
 - [blockGame]			: 블록 게임
 
+[kakao 2017 blind test]
+----------------
+- [secretMap]			: 비밀 지도
+- [dartGame]			: 다트 게임
+
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
@@ -186,3 +191,7 @@
 [nodeCircuit]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/nodeCircuit.cpp
 [matchingScore]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/matchingScore.cpp
 [blockGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2018/blockGame.cpp
+
+[kakao 2017 blind test]: https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
+[secretMap]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/secretMap.cpp
+[dartGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/dartGame.cpp
