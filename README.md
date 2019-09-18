@@ -103,6 +103,10 @@
 - [secretMap]			: 비밀 지도
 - [dartGame]			: 다트 게임
 
+[samsung code test]
+----------------
+- [spread]				: 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
+
 
 [백준 온라인 저지]: https://www.acmicpc.net
 [1476]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/math/1476.cpp
@@ -195,3 +199,6 @@
 [kakao 2017 blind test]: https://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
 [secretMap]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/secretMap.cpp
 [dartGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/dartGame.cpp
+
+[samsung code test]
+[spread]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
