@@ -45,7 +45,7 @@
 3. 그래프
 - [1260]    : DFS와 BFS[(문제)](https://www.acmicpc.net/problem/1260)
 - [1261]    : 알고스팟[(문제)](https://www.acmicpc.net/problem/1261)
-- [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1707)
+- [1697]    : 숨바꼭질[(문제)](https://www.acmicpc.net/problem/1697)
 - [1707]    : 이분 그래프[(문제)](https://www.acmicpc.net/problem/1707)
 - [2178]    : 미로 탐색[(문제)](https://www.acmicpc.net/problem/2178)
 - [2206]    : 벽 부수고 이동하기[(문제)](https://www.acmicpc.net/problem/2206)
@@ -105,7 +105,8 @@
 
 [samsung code test]
 ----------------
-- [spread]				: 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
+- [17144]				: 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
+- [13460]				: 구슬 탈출 2[(문제)](https://www.acmicpc.net/problem/13460)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -201,4 +202,5 @@
 [dartGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/dartGame.cpp
 
 [samsung code test]
-[spread]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
+[17144]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
+[13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
