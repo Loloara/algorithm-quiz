@@ -107,6 +107,7 @@
 ----------------
 - [17144]				: 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
 - [13460]				: 구슬 탈출 2[(문제)](https://www.acmicpc.net/problem/13460)
+- [12100]				: 2048 (Easy)[(문제)](https://www.acmicpc.net/problem/12100)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -204,3 +205,4 @@
 [samsung code test]
 [17144]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
 [13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
+[12100]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/12100.cpp
