@@ -203,6 +203,7 @@
 [secretMap]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/secretMap.cpp
 [dartGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/dartGame.cpp
 
+[samsung code test]: https://www.acmicpc.net/workbook/view/1152
 [17142]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17142.cpp
 [17144]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
 [13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
