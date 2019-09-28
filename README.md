@@ -108,6 +108,7 @@
 - [17144]				: 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
 - [13460]				: 구슬 탈출 2[(문제)](https://www.acmicpc.net/problem/13460)
 - [12100]				: 2048 (Easy)[(문제)](https://www.acmicpc.net/problem/12100)
+- [17142]				: 연구소 3 [(문제)](https://www.acmicpc.net/problem/17142)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -202,6 +203,7 @@
 [secretMap]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/secretMap.cpp
 [dartGame]: https://github.com/Loloara/algorithm-quiz/blob/master/kakao/2017/dartGame.cpp
 
+[17142]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17142.cpp
 [17144]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
 [13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
 [12100]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/12100.cpp
