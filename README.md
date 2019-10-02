@@ -110,6 +110,7 @@
 - [12100]				: 2048 (Easy)[(문제)](https://www.acmicpc.net/problem/12100)
 - [17142]				: 연구소 3 [(문제)](https://www.acmicpc.net/problem/17142)
 - [3190]				: 뱀 [(문제)](https://www.acmicpc.net/problem/3190)
+- [16236]				: 아기 상어 [(문제)](https://www.acmicpc.net/problem/16236)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -210,3 +211,4 @@
 [13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
 [12100]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/12100.cpp
 [3190]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3190.cpp
+[16236]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/16236.cpp
