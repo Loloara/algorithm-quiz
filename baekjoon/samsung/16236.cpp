@@ -55,7 +55,7 @@ int main() {
 				if (board[new_x][new_y] > shark) continue;
 				if (mem[new_x][new_y] && (mem[new_x][new_y] <= mem[this_x][this_y] + 1)) continue;
 				else mem[new_x][new_y] = mem[this_x][this_y] + 1;
-				if (board[new_x][new_y] > 0 && board[new_x][new_y] < shark) {
+				if (board[new_x][new_y] > 0 && board[new_x][new_y] < shark) {	//여기 때문에 샤크 사이즈 9보다 커지면 무한루프
 					if (eat.empty() || (!eat.empty() && mem[eat[0].first][eat[0].second] == mem[new_x][new_y])) {
 						eat.push_back(make_pair(new_x, new_y));
 						distance = mem[new_x][new_y];
