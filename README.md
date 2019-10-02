@@ -109,6 +109,7 @@
 - [13460]				: 구슬 탈출 2[(문제)](https://www.acmicpc.net/problem/13460)
 - [12100]				: 2048 (Easy)[(문제)](https://www.acmicpc.net/problem/12100)
 - [17142]				: 연구소 3 [(문제)](https://www.acmicpc.net/problem/17142)
+- [3190]				: 뱀 [(문제)](https://www.acmicpc.net/problem/3190)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -208,3 +209,4 @@
 [17144]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17144.cpp
 [13460]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13460.cpp
 [12100]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/12100.cpp
+[3190]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3190.cpp
