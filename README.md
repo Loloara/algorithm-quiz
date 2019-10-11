@@ -114,6 +114,7 @@
 - [17135]				: 캐슬 디펜스 [(문제)](https://www.acmicpc.net/problem/17135)
 - [16234]				: 캐슬 디펜스 [(문제)](https://www.acmicpc.net/problem/16234)
 - [13458]				: 시험 감독 [(문제)](https://www.acmicpc.net/problem/13458)
+- [14499]				: 주사위 굴리기 [(문제)](https://www.acmicpc.net/problem/14499)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -218,3 +219,4 @@
 [17135]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17135.cpp
 [16234]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/16234.cpp
 [13458]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/13458.cpp
+[14499]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14499.cpp
