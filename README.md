@@ -120,6 +120,7 @@
 - [14503]				: 로봇 청소기 [(문제)](https://www.acmicpc.net/problem/14503)
 - [14890]				: 스타트와 링크 [(문제)](https://www.acmicpc.net/problem/14890)
 - [14890]				: 경사로 [(문제)](https://www.acmicpc.net/problem/14890)
+- [14891]				: 톱니바퀴 [(문제)](https://www.acmicpc.net/problem/14891)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -230,3 +231,4 @@
 [14503]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14503.cpp
 [14889]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14889.cpp
 [14890]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14890.cpp
+[14891]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14891.cpp
