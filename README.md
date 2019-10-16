@@ -122,6 +122,7 @@
 - [14890]				: 경사로 [(문제)](https://www.acmicpc.net/problem/14890)
 - [14891]				: 톱니바퀴 [(문제)](https://www.acmicpc.net/problem/14891)
 - [15683]				: 감시 [(문제)](https://www.acmicpc.net/problem/15683)
+- [15684]				: 사다리 조작 [(문제)](https://www.acmicpc.net/problem/15684)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -234,3 +235,4 @@
 [14890]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14890.cpp
 [14891]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14891.cpp
 [15683]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15683.cpp
+[15684]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15684.cpp
