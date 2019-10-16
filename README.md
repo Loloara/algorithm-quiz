@@ -121,6 +121,7 @@
 - [14890]				: 스타트와 링크 [(문제)](https://www.acmicpc.net/problem/14890)
 - [14890]				: 경사로 [(문제)](https://www.acmicpc.net/problem/14890)
 - [14891]				: 톱니바퀴 [(문제)](https://www.acmicpc.net/problem/14891)
+- [15683]				: 감시 [(문제)](https://www.acmicpc.net/problem/15683)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -232,3 +233,4 @@
 [14889]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14889.cpp
 [14890]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14890.cpp
 [14891]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14891.cpp
+[15683]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15683.cpp
