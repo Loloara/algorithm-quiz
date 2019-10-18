@@ -125,6 +125,7 @@
 - [15684]				: 사다리 조작 [(문제)](https://www.acmicpc.net/problem/15684)
 - [15685]				: 드래곤 커브 [(문제)](https://www.acmicpc.net/problem/15685)
 - [15686]				: 치킨 배달 [(문제)](https://www.acmicpc.net/problem/15686)
+- [16235]				: 나무 재태크 [(문제)](https://www.acmicpc.net/problem/16235)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -240,3 +241,4 @@
 [15684]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15684.cpp
 [15685]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15685.cpp
 [15686]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15686.cpp
+[16235]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/16235.cpp
