@@ -123,7 +123,8 @@
 - [14891]				: 톱니바퀴 [(문제)](https://www.acmicpc.net/problem/14891)
 - [15683]				: 감시 [(문제)](https://www.acmicpc.net/problem/15683)
 - [15684]				: 사다리 조작 [(문제)](https://www.acmicpc.net/problem/15684)
-- [15685]				: 사다리 조작 [(문제)](https://www.acmicpc.net/problem/15685)
+- [15685]				: 드래곤 커브 [(문제)](https://www.acmicpc.net/problem/15685)
+- [15686]				: 치킨 배달 [(문제)](https://www.acmicpc.net/problem/15686)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -238,3 +239,4 @@
 [15683]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15683.cpp
 [15684]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15684.cpp
 [15685]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15685.cpp
+[15686]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15686.cpp
