@@ -132,6 +132,7 @@
 - [13549]				: 숨바꼭질3 [(문제)](https://www.acmicpc.net/problem/13549)
 - [7569]				: 토마토 [(문제)](https://www.acmicpc.net/problem/7569)
 - [7576]				: 토마토 [(문제)](https://www.acmicpc.net/problem/7576)
+- [2606]				: 바이러스 [(문제)](https://www.acmicpc.net/problem/2606)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -253,3 +254,4 @@
 [2638]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2638.cpp
 [7569]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7569.cpp
 [7576]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7576.cpp
+[2606]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2606.cpp
