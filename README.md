@@ -127,6 +127,8 @@
 - [15686]				: 치킨 배달 [(문제)](https://www.acmicpc.net/problem/15686)
 - [16235]				: 나무 재태크 [(문제)](https://www.acmicpc.net/problem/16235)
 - [2146]				: 다리 만들기 [(문제)](https://www.acmicpc.net/problem/2146)
+- [2636]				: 치즈 [(문제)](https://www.acmicpc.net/problem/2636)
+- [2638]				: 치즈 [(문제)](https://www.acmicpc.net/problem/2638)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -244,3 +246,5 @@
 [15686]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/15686.cpp
 [16235]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/16235.cpp
 [2146]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2146.cpp
+[2636]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2636.cpp
+[2638]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2638.cpp
