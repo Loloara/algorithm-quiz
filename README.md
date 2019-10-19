@@ -130,6 +130,7 @@
 - [2636]				: 치즈 [(문제)](https://www.acmicpc.net/problem/2636)
 - [2638]				: 치즈 [(문제)](https://www.acmicpc.net/problem/2638)
 - [13549]				: 숨바꼭질3 [(문제)](https://www.acmicpc.net/problem/13549)
+- [7569]				: 토마토 [(문제)](https://www.acmicpc.net/problem/7569)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -249,3 +250,4 @@
 [2146]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2146.cpp
 [2636]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2636.cpp
 [2638]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2638.cpp
+[7569]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7569.cpp
