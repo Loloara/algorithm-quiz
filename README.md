@@ -133,6 +133,7 @@
 - [7569]				: 토마토 [(문제)](https://www.acmicpc.net/problem/7569)
 - [7576]				: 토마토 [(문제)](https://www.acmicpc.net/problem/7576)
 - [2606]				: 바이러스 [(문제)](https://www.acmicpc.net/problem/2606)
+- [2156]				: 포도주 시식 [(문제)](https://www.acmicpc.net/problem/2156)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -255,3 +256,4 @@
 [7569]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7569.cpp
 [7576]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7576.cpp
 [2606]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2606.cpp
+[2156]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2156.cpp
