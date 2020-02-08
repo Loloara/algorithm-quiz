@@ -138,6 +138,7 @@
 - [17837]				: 새로운 게임 [(문제)](https://www.acmicpc.net/problem/17837)
 - [1026]				: 보물 [(문제)](https://www.acmicpc.net/problem/1026)
 - [1018]				: 체스판 다시 칠하기 [(문제)](https://www.acmicpc.net/problem/1018)
+- [3184]				: 양 [(문제)](https://www.acmicpc.net/problem/3184)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -264,3 +265,4 @@
 [17837]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17837.cpp
 [1026]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1026.cpp
 [11403]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11403.cpp
+[3184]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3184.cpp
