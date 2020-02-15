@@ -141,6 +141,7 @@
 - [3184]				: 양 [(문제)](https://www.acmicpc.net/problem/3184)
 - [9372]				: 상근이의 여행 [(문제)](https://www.acmicpc.net/problem/9372)
 - [11048]				: 이동하기 [(문제)](https://www.acmicpc.net/problem/11048)
+- [2210]				: 숫자판 점프 [(문제)](https://www.acmicpc.net/problem/2210)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -270,3 +271,4 @@
 [3184]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3184.cpp
 [9372]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9372.cpp
 [11048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11048.cpp
+[2210]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2210.cpp
