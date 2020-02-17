@@ -142,6 +142,7 @@
 - [9372]				: 상근이의 여행 [(문제)](https://www.acmicpc.net/problem/9372)
 - [11048]				: 이동하기 [(문제)](https://www.acmicpc.net/problem/11048)
 - [2210]				: 숫자판 점프 [(문제)](https://www.acmicpc.net/problem/2210)
+- [2583]				: 영역 구하기 [(문제)](https://www.acmicpc.net/problem/2583)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -272,3 +273,4 @@
 [9372]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9372.cpp
 [11048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11048.cpp
 [2210]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2210.cpp
+[2583]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2583.cpp
