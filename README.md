@@ -146,6 +146,7 @@
 - [5558]				: チーズ [(문제)](https://www.acmicpc.net/problem/5558)
 - [14620]				: 꽃길 [(문제)](https://www.acmicpc.net/problem/14620)
 - [1347]				: 미로 만들기 [(문제)](https://www.acmicpc.net/problem/1347)
+- [1986]				: 체스 [(문제)](https://www.acmicpc.net/problem/1986)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -280,3 +281,4 @@
 [5558]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5558.cpp
 [14620]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14620.cpp
 [1347]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1347.cpp
+[1986]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1986.cpp
