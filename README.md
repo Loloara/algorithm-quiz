@@ -148,6 +148,8 @@
 - [1347]				: 미로 만들기 [(문제)](https://www.acmicpc.net/problem/1347)
 - [1986]				: 체스 [(문제)](https://www.acmicpc.net/problem/1986)
 - [2251]				: 물통 [(문제)](https://www.acmicpc.net/problem/2251)
+- [3967]				: 매직 스타 [(문제)](https://www.acmicpc.net/problem/3967)
+- [5566]				: 주사위 게임 [(문제)](https://www.acmicpc.net/problem/5566)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -284,3 +286,5 @@
 [1347]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1347.cpp
 [1986]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1986.cpp
 [2251]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2251.cpp
+[3967]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3967.cpp
+[5566]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5566.cpp
