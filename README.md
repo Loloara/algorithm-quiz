@@ -150,6 +150,7 @@
 - [2251]				: 물통 [(문제)](https://www.acmicpc.net/problem/2251)
 - [3967]				: 매직 스타 [(문제)](https://www.acmicpc.net/problem/3967)
 - [5566]				: 주사위 게임 [(문제)](https://www.acmicpc.net/problem/5566)
+- [2644]				: 촌수계산 [(문제)](https://www.acmicpc.net/problem/2644)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -288,3 +289,4 @@
 [2251]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2251.cpp
 [3967]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3967.cpp
 [5566]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5566.cpp
+[2644]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2644.cpp
