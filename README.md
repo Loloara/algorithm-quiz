@@ -152,6 +152,7 @@
 - [5566]				: 주사위 게임 [(문제)](https://www.acmicpc.net/problem/5566)
 - [2644]				: 촌수계산 [(문제)](https://www.acmicpc.net/problem/2644)
 - [7562]				: 나이트의 이동 [(문제)](https://www.acmicpc.net/problem/7562)
+- [3048]				: 개미 [(문제)](https://www.acmicpc.net/problem/3048)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -292,3 +293,4 @@
 [5566]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5566.cpp
 [2644]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2644.cpp
 [7562]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7562.cpp
+[3048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3048.cpp
