@@ -151,6 +151,7 @@
 - [3967]				: 매직 스타 [(문제)](https://www.acmicpc.net/problem/3967)
 - [5566]				: 주사위 게임 [(문제)](https://www.acmicpc.net/problem/5566)
 - [2644]				: 촌수계산 [(문제)](https://www.acmicpc.net/problem/2644)
+- [7562]				: 나이트의 이동 [(문제)](https://www.acmicpc.net/problem/7562)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -290,3 +291,4 @@
 [3967]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3967.cpp
 [5566]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5566.cpp
 [2644]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2644.cpp
+[7562]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7562.cpp
