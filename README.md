@@ -153,6 +153,7 @@
 - [2644]				: 촌수계산 [(문제)](https://www.acmicpc.net/problem/2644)
 - [7562]				: 나이트의 이동 [(문제)](https://www.acmicpc.net/problem/7562)
 - [3048]				: 개미 [(문제)](https://www.acmicpc.net/problem/3048)
+- [1941]				: 소문난 칠공주 [(문제)](https://www.acmicpc.net/problem/1941)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -294,3 +295,4 @@
 [2644]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2644.cpp
 [7562]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7562.cpp
 [3048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3048.cpp
+[1941]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1941.cpp
