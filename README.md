@@ -155,6 +155,7 @@
 - [3048]				: 개미 [(문제)](https://www.acmicpc.net/problem/3048)
 - [1941]				: 소문난 칠공주 [(문제)](https://www.acmicpc.net/problem/1941)
 - [9207]				: 페그 솔리테어 [(문제)](https://www.acmicpc.net/problem/9207)
+- [2784]				: 가로 세로 퍼즐 [(문제)](https://www.acmicpc.net/problem/2784)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -298,3 +299,4 @@
 [3048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3048.cpp
 [1941]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1941.cpp
 [9207]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9207.cpp
+[2784]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2784.cpp
