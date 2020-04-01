@@ -154,6 +154,7 @@
 - [7562]				: 나이트의 이동 [(문제)](https://www.acmicpc.net/problem/7562)
 - [3048]				: 개미 [(문제)](https://www.acmicpc.net/problem/3048)
 - [1941]				: 소문난 칠공주 [(문제)](https://www.acmicpc.net/problem/1941)
+- [9207]				: 페그 솔리테어 [(문제)](https://www.acmicpc.net/problem/9207)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -296,3 +297,4 @@
 [7562]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/7562.cpp
 [3048]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3048.cpp
 [1941]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1941.cpp
+[9207]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9207.cpp
