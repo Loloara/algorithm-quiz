@@ -159,6 +159,7 @@
 - [14925]				: 목장 건설하기 [(문제)](https://www.acmicpc.net/problem/14925)
 - [1074]				: Z [(문제)](https://www.acmicpc.net/problem/1074)
 - [2234]				: 성곽 [(문제)](https://www.acmicpc.net/problem/2234)
+- [2589]				: 보물섬 [(문제)](https://www.acmicpc.net/problem/2589)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -306,3 +307,4 @@
 [14925]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14925.cpp
 [1074]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1074.cpp
 [2234]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2234.cpp
+[2589]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2589.cpp
