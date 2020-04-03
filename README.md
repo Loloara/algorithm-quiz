@@ -157,6 +157,7 @@
 - [9207]				: 페그 솔리테어 [(문제)](https://www.acmicpc.net/problem/9207)
 - [2784]				: 가로 세로 퍼즐 [(문제)](https://www.acmicpc.net/problem/2784)
 - [14925]				: 목장 건설하기 [(문제)](https://www.acmicpc.net/problem/14925)
+- [1074]				: Z [(문제)](https://www.acmicpc.net/problem/1074)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -302,3 +303,4 @@
 [9207]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9207.cpp
 [2784]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2784.cpp
 [14925]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/14925.cpp
+[1074]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1074.cpp
