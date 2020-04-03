@@ -160,6 +160,7 @@
 - [1074]				: Z [(문제)](https://www.acmicpc.net/problem/1074)
 - [2234]				: 성곽 [(문제)](https://www.acmicpc.net/problem/2234)
 - [2589]				: 보물섬 [(문제)](https://www.acmicpc.net/problem/2589)
+- [5014]				: 스타트링크 [(문제)](https://www.acmicpc.net/problem/5014)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -308,3 +309,4 @@
 [1074]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1074.cpp
 [2234]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2234.cpp
 [2589]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2589.cpp
+[5014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5014.cpp
