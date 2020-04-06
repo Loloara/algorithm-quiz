@@ -161,6 +161,7 @@
 - [2234]				: 성곽 [(문제)](https://www.acmicpc.net/problem/2234)
 - [2589]				: 보물섬 [(문제)](https://www.acmicpc.net/problem/2589)
 - [5014]				: 스타트링크 [(문제)](https://www.acmicpc.net/problem/5014)
+- [11559]				: Puyo Puyo [(문제)](https://www.acmicpc.net/problem/11559)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -310,3 +311,4 @@
 [2234]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2234.cpp
 [2589]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2589.cpp
 [5014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5014.cpp
+[11559]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11559.cpp
