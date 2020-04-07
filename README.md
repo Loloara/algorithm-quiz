@@ -288,6 +288,7 @@
 [2156]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2156.cpp
 [17837]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/17837.cpp
 [1026]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1026.cpp
+[1018]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1018.cpp
 [11403]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11403.cpp
 [3184]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/3184.cpp
 [9372]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/9372.cpp
