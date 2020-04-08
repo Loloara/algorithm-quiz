@@ -163,6 +163,7 @@
 - [5014]				: 스타트링크 [(문제)](https://www.acmicpc.net/problem/5014)
 - [11559]				: Puyo Puyo [(문제)](https://www.acmicpc.net/problem/11559)
 - [2468]				: 안전 영역 [(문제)](https://www.acmicpc.net/problem/2468)
+- [1520]				: 내리막 길 [(문제)](https://www.acmicpc.net/problem/1520)
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
@@ -315,3 +316,4 @@
 [5014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/5014.cpp
 [11559]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/11559.cpp
 [2468]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/2468.cpp
+[1520]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/samsung/1520.cpp
