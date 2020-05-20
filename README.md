@@ -82,6 +82,10 @@
 - [15990]   : 1,2,3 더하기5[(문제)](https://www.acmicpc.net/problem/15990)
 - [16194]   : 카드 구매하기2[(문제)](https://www.acmicpc.net/problem/16194)
 
+4. 우선순위 큐
+- [2014]   : 소수의 곱[(문제)](https://www.acmicpc.net/problem/2014)
+- [2252]   : 줄 세우기[(문제)](https://www.acmicpc.net/problem/2252)
+
 [code.plus base]
 ----------------
 - [GCD_Euclid]            : 최대공략수 유클리드 호제법로 구하기
@@ -238,6 +242,8 @@
 [15988]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/15988.cpp
 [15990]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/15990.cpp
 [16194]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/16194.cpp
+[2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
+[2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
 
 
 [code.plus base]: https://code.plus
