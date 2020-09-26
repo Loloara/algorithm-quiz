@@ -100,6 +100,10 @@
 - [2014] : 소수의 곱[(문제)](https://www.acmicpc.net/problem/2014)
 - [2252] : 줄 세우기[(문제)](https://www.acmicpc.net/problem/2252)
 
+5. 트리에서 다이나믹 프로그래밍
+
+- [2213] : 트리의 독립집합[(문제)](https://www.acmicpc.net/problem/2213)
+
 ## [samsung code test]
 
 - [17144] : 미세먼지 안녕![(문제)](https://www.acmicpc.net/problem/17144)
@@ -285,6 +289,7 @@
 [1149]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1149.cpp
 [2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
 [2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
+[2213]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/tree_dp/2213.cpp
 [code.plus base]: https://code.plus
 [gcd_euclid]: https://github.com/Loloara/algorithm-quiz/blob/master/base/GCD_Euclid.cpp
 [moduler_arithmetic]: https://github.com/Loloara/algorithm-quiz/blob/master/base/Moduler_Arithmetic.cpp
