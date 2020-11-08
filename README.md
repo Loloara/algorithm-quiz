@@ -63,6 +63,7 @@
 - [13549] : 숨바꼭질3[(문제)](https://www.acmicpc.net/problem/13549)
 - [14226] : 이모티콘[(문제)](https://www.acmicpc.net/problem/14226)
 - [18258] : 큐2[(문제)](https://www.acmicpc.net/problem/18258)
+- [17142] : 연구실3[(문제)](https://www.acmicpc.net/problem/17142)
 
 3. 다이나믹 프로그래밍
 
@@ -251,6 +252,7 @@
 [1260]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/1260.cpp
 [13023]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/13023.cpp
 [18258]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/18258.java
+[17142]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/17142.java
 [1707]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/1707.cpp
 [4963]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/dfs/4963.cpp
 [1261]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/graph/bfs/1261.cpp
