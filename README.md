@@ -97,6 +97,7 @@
 - [16194] : 카드 구매하기2[(문제)](https://www.acmicpc.net/problem/16194)
 - [2293] : 동전1[(문제)](https://www.acmicpc.net/problem/2293)
 - [1509] : 팰린드롬 분할[(문제)](https://www.acmicpc.net/problem/1509)
+- [1300] : K번째 수[(문제)](https://www.acmicpc.net/problem/1300)
 
 4. 우선순위 큐
 
@@ -293,6 +294,7 @@
 [1149]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1149.cpp
 [2293]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2293.java
 [1509]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1509.java
+[1300]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1300.java
 [2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
 [2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
 [2213]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/tree_dp/2213.cpp
