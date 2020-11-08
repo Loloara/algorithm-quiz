@@ -95,6 +95,7 @@
 - [15988] : 1,2,3 더하기3[(문제)](https://www.acmicpc.net/problem/15988)
 - [15990] : 1,2,3 더하기5[(문제)](https://www.acmicpc.net/problem/15990)
 - [16194] : 카드 구매하기2[(문제)](https://www.acmicpc.net/problem/16194)
+- [2293] : 동전1[(문제)](https://www.acmicpc.net/problem/2293)
 
 4. 우선순위 큐
 
@@ -289,6 +290,7 @@
 [9656]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/9656.cpp
 [1003]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1003.cpp
 [1149]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1149.cpp
+[2293]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2293.java
 [2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
 [2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
 [2213]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/tree_dp/2213.cpp
