@@ -104,6 +104,7 @@
 
 - [2014] : 소수의 곱[(문제)](https://www.acmicpc.net/problem/2014)
 - [2252] : 줄 세우기[(문제)](https://www.acmicpc.net/problem/2252)
+- [1753] : 최단거리[(문제)](https://www.acmicpc.net/problem/1753)
 
 5. 트리에서 다이나믹 프로그래밍
 
@@ -299,6 +300,7 @@
 [1300]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1300.java
 [2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
 [2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
+[1753]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/1753.java
 [2213]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/tree_dp/2213.cpp
 [code.plus base]: https://code.plus
 [gcd_euclid]: https://github.com/Loloara/algorithm-quiz/blob/master/base/GCD_Euclid.cpp
