@@ -44,6 +44,7 @@
 - [15664] : N과 M(10)[(문제)](https://www.acmicpc.net/problem/15664)
 - [15665] : N과 M(11)[(문제)](https://www.acmicpc.net/problem/15665)
 - [15666] : N과 M(12)[(문제)](https://www.acmicpc.net/problem/15666)
+- [2798] : 블랙잭[(문제)](https://www.acmicpc.net/problem/2798)
 
 3. 그래프
 
@@ -232,6 +233,7 @@
 [10974]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10974.cpp
 [10819]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/10819.cpp
 [14888]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/14888.cpp
+[2798]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/permutation/2798.java
 [1759]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/1759.cpp
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/9095.cpp
 [14501]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/bruteforce/recursive/14501.cpp
