@@ -101,6 +101,7 @@
 - [1509] : 팰린드롬 분할[(문제)](https://www.acmicpc.net/problem/1509)
 - [1300] : K번째 수[(문제)](https://www.acmicpc.net/problem/1300)
 - [12852] : 1로 만들기2[(문제)](https://www.acmicpc.net/problem/12852)
+- [2169] : 로봇 조종하기[(문제)](https://www.acmicpc.net/problem/2169)
 
 4. 우선순위 큐
 
@@ -303,6 +304,7 @@
 [1509]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1509.java
 [1300]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1300.java
 [12852]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/12852.java
+[2169]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2169.java
 [2014]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2014.cpp
 [2252]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/2252.cpp
 [1753]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/pq/1753.java
