@@ -1,6 +1,6 @@
 # 알고리즘 문제해결
 
-## [백준 온라인 저지] 148문제
+## [백준 온라인 저지] 158문제
 
 ## 분류
 
@@ -173,7 +173,7 @@
 - [1520] : 내리막 길 [(문제)](https://www.acmicpc.net/problem/1520)
 - [1890] : 점프 [(문제)](https://www.acmicpc.net/problem/1890)
 
-## [프로그래머스] 19문제
+## [프로그래머스] 20문제
 
 ## 분류
 
@@ -183,6 +183,7 @@
 - [42862] : 체육복 [(문제)](https://programmers.co.kr/learn/courses/30/lessons/42862)
 - [42883] : 큰 수 만들기 [(문제)](https://programmers.co.kr/learn/courses/30/lessons/42883)
 - [42885] : 구명보트 [(문제)](https://programmers.co.kr/learn/courses/30/lessons/42885)
+- [49995] : 쿠키 구입 [(문제)](https://programmers.co.kr/learn/courses/30/lessons/49995)
 
 2. 그래프
 
@@ -384,5 +385,6 @@
 [42862]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/greedy/42862.js
 [42883]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/greedy/42883.js
 [42885]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/greedy/42885.js
+[49995]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/greedy/49995.java
 [43164]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/dfs/43164.js
 [43105]: https://github.com/Loloara/algorithm-quiz/blob/master/programmers/dp/43105.js
