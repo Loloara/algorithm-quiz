@@ -298,7 +298,7 @@
 [9095]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/9095.cpp
 [9507]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/9507.cpp
 [9656]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/9656.cpp
-[1003]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1003.cpp
+[1003]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1003.js
 [1149]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1149.cpp
 [2293]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/2293.java
 [1509]: https://github.com/Loloara/algorithm-quiz/blob/master/baekjoon/dp/1509.java
